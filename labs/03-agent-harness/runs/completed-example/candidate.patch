@@ -1,0 +1,22 @@
+diff --git a/more_itertools/more.py b/more_itertools/more.py
+index 2fdd949..a1188aa 100755
+--- a/more_itertools/more.py
++++ b/more_itertools/more.py
+@@ -4253,13 +4253,13 @@ def zip_broadcast(*objects, scalar_types=(str, bytes), strict=False):
+ 
+ 
+ def unique_in_window(iterable, n, key=None):
+-    """Yield the items from *iterable* that haven't been seen recently.
++    """Yield the items from *iterable* that haven't been yielded recently.
+     *n* is the size of the lookback window.
+ 
+-        >>> iterable = [0, 1, 0, 2, 3, 0]
+-        >>> n = 3
++        >>> iterable = [0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 2, 3, 4, 2]
++        >>> n = 2
+         >>> list(unique_in_window(iterable, n))
+-        [0, 1, 2, 3, 0]
++        [0, 1, 2, 3, 4, 2]
+ 
+     The *key* function, if provided, will be used to determine uniqueness:
+ 

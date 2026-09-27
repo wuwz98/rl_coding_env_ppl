@@ -1,0 +1,2945 @@
+{
+  "complete": true,
+  "counts": {
+    "pass": 734
+  },
+  "tests": [
+    {
+      "id": "more_itertools.more.SequenceView",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.adjacent",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.all_unique",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.always_iterable",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.always_reversible",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.bucket",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.callback_iter",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.chunked",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.chunked_even",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.circular_shifts",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.collapse",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.combination_index",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.combination_with_replacement_index",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.consecutive_groups",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.constrained_batches",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.consumer",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.count_cycle",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.countable",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.difference",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.distinct_combinations",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.distinct_permutations",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.distribute",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.divide",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.duplicates_everseen",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.duplicates_justseen",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.exactly_n",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.filter_except",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.first",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.gray_product",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.groupby_transform",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.ichunked",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.iequals",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.ilen",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.interleave",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.interleave_evenly",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.interleave_longest",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.intersperse",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.is_sorted",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.islice_extended",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.iterate",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.last",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.locate",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.longest_common_prefix",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.lstrip",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.make_decorator",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.map_except",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.map_if",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.map_reduce",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.mark_ends",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.minmax",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.nth_combination_with_replacement",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.nth_or_last",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.nth_permutation",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.nth_product",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.numeric_range",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.one",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.only",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.padded",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.partial_product",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.partitions",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.peekable",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.peekable.prepend",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.permutation_index",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.product_index",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.repeat_each",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.repeat_last",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.replace",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.rlocate",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.rstrip",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.run_length",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.sample",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.seekable",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.set_partitions",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.side_effect",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.sliced",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.sort_together",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.split_after",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.split_at",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.split_before",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.split_into",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.split_when",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.spy",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.stagger",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.strictly_n",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.strip",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.substrings",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.substrings_indexes",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.time_limited",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.unique_in_window",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.unique_to_each",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.unzip",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.value_chain",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.windowed",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.windowed_complete",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.zip_broadcast",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.zip_equal",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.more.zip_offset",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes._pairwise",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.all_equal",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.batched",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.before_and_after",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.consume",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.convolve",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.dotproduct",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.factor",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.first_true",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.flatten",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.grouper",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.iter_except",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.iter_index",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.matmul",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.ncycles",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.nth",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.nth_combination",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.pad_none",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.pairwise",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.partition",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.polynomial_eval",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.polynomial_from_roots",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.powerset",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.prepend",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.quantify",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.random_combination",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.random_combination_with_replacement",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.random_permutation",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.random_product",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.repeatfunc",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.roundrobin",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.sieve",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.sliding_window",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.subslices",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.sum_of_squares",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.tabulate",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.tail",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.take",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.transpose",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.triplewise",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.unique_everseen",
+      "status": "pass"
+    },
+    {
+      "id": "more_itertools.recipes.unique_justseen",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.AdjacentTests.test_call_once",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.AdjacentTests.test_consecutive_true",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.AdjacentTests.test_distance",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.AdjacentTests.test_empty_iterable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.AdjacentTests.test_grouping",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.AdjacentTests.test_large_distance",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.AdjacentTests.test_length_one",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.AdjacentTests.test_negative_distance",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.AdjacentTests.test_typical",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.AdjacentTests.test_zero_distance",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.AllUniqueTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.AllUniqueTests.test_infinite",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.AllUniqueTests.test_key",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.AllUniqueTests.test_non_hashable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.AllUniqueTests.test_partially_hashable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.AlwaysReversibleTests.test_nonseq_reversed",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.AlwaysReversibleTests.test_regular_reversed",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.BucketTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.BucketTests.test_in",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.BucketTests.test_list",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.BucketTests.test_list_validator",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.BucketTests.test_validator",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CallbackIterTests.test_abort",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CallbackIterTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CallbackIterTests.test_callback_kwd",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CallbackIterTests.test_exception",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CallbackIterTests.test_no_result",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CallbackIterTests.test_partial_consumption",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ChunkedEvenTests.test_0",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ChunkedEvenTests.test_1",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ChunkedEvenTests.test_4",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ChunkedEvenTests.test_5",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ChunkedEvenTests.test_6",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ChunkedEvenTests.test_7",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ChunkedEvenTests.test_evenness",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ChunkedEvenTests.test_infinite",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ChunkedTests.test_even",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ChunkedTests.test_none",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ChunkedTests.test_odd",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ChunkedTests.test_strict_being_true",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ChunkedTests.test_strict_being_true_with_size_none",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ChunkedTests.test_strict_false",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CircularShiftsTests.test_duplicates",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CircularShiftsTests.test_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CircularShiftsTests.test_simple_circular_shifts",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CombinationIndexTests.test_invalid_large",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CombinationIndexTests.test_invalid_match",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CombinationIndexTests.test_invalid_order",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CombinationIndexTests.test_long",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CombinationIndexTests.test_multiplicity",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CombinationIndexTests.test_null",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CombinationIndexTests.test_r_equal_to_n",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CombinationIndexTests.test_r_less_than_n",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CombinationWithReplacementIndexTests.test_invalid_large",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CombinationWithReplacementIndexTests.test_invalid_match",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CombinationWithReplacementIndexTests.test_invalid_order",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CombinationWithReplacementIndexTests.test_long",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CombinationWithReplacementIndexTests.test_multiplicity",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CombinationWithReplacementIndexTests.test_null",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CombinationWithReplacementIndexTests.test_r_equal_to_n",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CombinationWithReplacementIndexTests.test_r_less_than_n",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ConsecutiveGroupsTest.test_custom_ordering",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ConsecutiveGroupsTest.test_exotic_ordering",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ConsecutiveGroupsTest.test_numbers",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ConstrainedBatchesTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ConstrainedBatchesTests.test_get_len",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ConstrainedBatchesTests.test_max_count",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ConstrainedBatchesTests.test_strict",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ConsumerTests.test_consumer",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CountCycleTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CountCycleTests.test_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CountCycleTests.test_negative",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CountableTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.CountableTests.test_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DifferenceTest.test_custom",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DifferenceTest.test_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DifferenceTest.test_initial",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DifferenceTest.test_normal",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DifferenceTest.test_one",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DifferenceTest.test_roundtrip",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DistinctCombinationsTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DistinctCombinationsTests.test_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DistinctCombinationsTests.test_negative",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DistinctPermutationsTests.test_distinct_permutations",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DistinctPermutationsTests.test_other_iterables",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DistinctPermutationsTests.test_r",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DistributeTest.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DistributeTest.test_invalid_n",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DistributeTest.test_large_n",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DivideTest.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DivideTest.test_invalid_n",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DivideTest.test_large_n",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DuplicatesEverSeenTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DuplicatesEverSeenTests.test_key_hashable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DuplicatesEverSeenTests.test_key_non_hashable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DuplicatesEverSeenTests.test_key_partially_hashable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DuplicatesEverSeenTests.test_non_hashable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DuplicatesEverSeenTests.test_partially_hashable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DuplicatesJustSeenTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DuplicatesJustSeenTests.test_key_hashable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DuplicatesJustSeenTests.test_key_non_hashable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DuplicatesJustSeenTests.test_key_partially_hashable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DuplicatesJustSeenTests.test_nested",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DuplicatesJustSeenTests.test_non_hashable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.DuplicatesJustSeenTests.test_partially_hashable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ExactlyNTests.test_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ExactlyNTests.test_false",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ExactlyNTests.test_true",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.FilterExceptTests.test_false",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.FilterExceptTests.test_multiple",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.FilterExceptTests.test_no_exceptions_pass",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.FilterExceptTests.test_no_exceptions_raise",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.FilterExceptTests.test_raise",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.FirstTests.test_default",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.FirstTests.test_empty_stop_iteration",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.FirstTests.test_many",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.FirstTests.test_one",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.GrayProductTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.GrayProductTests.test_errors",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.GrayProductTests.test_vs_product",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.GroupByTransformTests.test_default_funcs",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.GroupByTransformTests.test_no_valuefunc",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.GroupByTransformTests.test_reducefunc",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.GroupByTransformTests.test_valuefunc",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IchunkedTests.test_even",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IchunkedTests.test_laziness",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IchunkedTests.test_memory_in_order",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IchunkedTests.test_negative",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IchunkedTests.test_odd",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IchunkedTests.test_out_of_order",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IchunkedTests.test_zero",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IequalsTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IequalsTests.test_empty_iterables",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IequalsTests.test_more_than_two_iterable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IequalsTests.test_no_iterables",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IequalsTests.test_none_is_not_a_sentinel",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IequalsTests.test_not_equal_lengths",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IequalsTests.test_not_identical_but_equal",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IequalsTests.test_one_iterable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IequalsTests.test_order_matters",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IlenTests.test_ilen",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.InterleaveEvenlyTests.test_argument_mismatch_raises",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.InterleaveEvenlyTests.test_degenerate_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.InterleaveEvenlyTests.test_degenerate_one",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.InterleaveEvenlyTests.test_equal_lengths",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.InterleaveEvenlyTests.test_manual_lengths",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.InterleaveEvenlyTests.test_many_iters",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.InterleaveEvenlyTests.test_no_length_raises",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.InterleaveEvenlyTests.test_not_proportional",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.InterleaveEvenlyTests.test_proportional",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.InterleaveEvenlyTests.test_three_iters",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.InterleaveLongestTests.test_even",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.InterleaveLongestTests.test_mixed_types",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.InterleaveLongestTests.test_short",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.InterleaveTests.test_even",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.InterleaveTests.test_mixed_types",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.InterleaveTests.test_short",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IntersperseTest.test_even",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IntersperseTest.test_n",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IntersperseTest.test_n_zero",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IntersperseTest.test_nested",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IntersperseTest.test_not_iterable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IntersperseTest.test_odd",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IsSortedTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IsliceExtendedTests.test_all",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IsliceExtendedTests.test_invalid_slice",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IsliceExtendedTests.test_slicing",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IsliceExtendedTests.test_slicing_extensive",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IsliceExtendedTests.test_zero_step",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IterateTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.IterateTests.test_func_controls_iteration_stop",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.LastTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.LastTests.test_default",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.LastTests.test_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.LocateTests.test_custom_pred",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.LocateTests.test_default_pred",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.LocateTests.test_no_matches",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.LocateTests.test_window_size",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.LocateTests.test_window_size_large",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.LocateTests.test_window_size_zero",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.LongestCommonPrefixTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.LongestCommonPrefixTests.test_contains_infinite_iterables",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.LongestCommonPrefixTests.test_empty_iterables_only",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.LongestCommonPrefixTests.test_includes_empty_iterables",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.LongestCommonPrefixTests.test_infinite_iterables",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.LongestCommonPrefixTests.test_iterators",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.LongestCommonPrefixTests.test_no_iterables",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.LongestCommonPrefixTests.test_non_hashable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.LongestCommonPrefixTests.test_prefix_contains_elements_of_the_first_iterable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.MakeDecoratorTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.MakeDecoratorTests.test_result_index",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.MakeDecoratorTests.test_wrap_class",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.MapExceptTests.test_multiple",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.MapExceptTests.test_no_exceptions_pass",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.MapExceptTests.test_no_exceptions_raise",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.MapExceptTests.test_raise",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.MapIfTests.test_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.MapIfTests.test_with_func_else",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.MapIfTests.test_without_func_else",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.MapReduceTests.test_default",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.MapReduceTests.test_reducefunc",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.MapReduceTests.test_ret",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.MapReduceTests.test_valuefunc",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.MarkEndsTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.MinMaxTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.MinMaxTests.test_default",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.MinMaxTests.test_iterables",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.MinMaxTests.test_key",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.MinMaxTests.test_unpacked",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NthCombinationWithReplacementTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NthCombinationWithReplacementTests.test_invalid_index",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NthCombinationWithReplacementTests.test_invalid_r",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NthCombinationWithReplacementTests.test_long",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NthOrLastTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NthOrLastTests.test_default_value",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NthOrLastTests.test_empty_iterable_no_default",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NthProductTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NthProductTests.test_invalid_index",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NthProductTests.test_long",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NthProductTests.test_negative",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NumericRangeTests.test_arg_count",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NumericRangeTests.test_bad_key",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NumericRangeTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NumericRangeTests.test_bool",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NumericRangeTests.test_contains",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NumericRangeTests.test_count",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NumericRangeTests.test_eq",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NumericRangeTests.test_get_item_by_index",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NumericRangeTests.test_get_item_by_slice",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NumericRangeTests.test_hash",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NumericRangeTests.test_index",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NumericRangeTests.test_iter_twice",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NumericRangeTests.test_len",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NumericRangeTests.test_parent_classes",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NumericRangeTests.test_pickle",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NumericRangeTests.test_repr",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NumericRangeTests.test_reversed",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.NumericRangeTests.test_zero_step",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.OneTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.OneTests.test_too_long",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.OneTests.test_too_long_default_message",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.OneTests.test_too_short",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.OnlyTests.test_custom_exception",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.OnlyTests.test_custom_value",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.OnlyTests.test_default_exception_message",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.OnlyTests.test_defaults",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PaddedTest.test_invalid_n",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PaddedTest.test_next_multiple",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PaddedTest.test_no_n",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PaddedTest.test_valid_n",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PartialProductTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PartialProductTests.test_empty_iterable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PartialProductTests.test_no_iterables",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PartialProductTests.test_one_iterable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PartialProductTests.test_two_iterables",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PartialProductTests.test_uneven_length_iterables",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PartitionsTest.test_duplicates",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PartitionsTest.test_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PartitionsTest.test_order",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PartitionsTest.test_types",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PeekableTests.test_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PeekableTests.test_indexing",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PeekableTests.test_multi_prepend",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PeekableTests.test_multi_prepend_peek",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PeekableTests.test_passthrough",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PeekableTests.test_peek_default",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PeekableTests.test_prepend",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PeekableTests.test_prepend_after_stop",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PeekableTests.test_prepend_indexing",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PeekableTests.test_prepend_iterable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PeekableTests.test_prepend_many",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PeekableTests.test_prepend_reversed",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PeekableTests.test_prepend_slicing",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PeekableTests.test_prepend_truthiness",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PeekableTests.test_simple_peeking",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PeekableTests.test_slicing",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PeekableTests.test_slicing_error",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PeekableTests.test_slicing_reset",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PeekableTests.test_truthiness",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PermutationIndexTests.test_invalid_large",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PermutationIndexTests.test_invalid_match",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PermutationIndexTests.test_long",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PermutationIndexTests.test_multiplicity",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PermutationIndexTests.test_null",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PermutationIndexTests.test_r_equal_to_n",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.PermutationIndexTests.test_r_less_than_n",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ProductIndexTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ProductIndexTests.test_invalid_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ProductIndexTests.test_invalid_large",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ProductIndexTests.test_invalid_match",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ProductIndexTests.test_invalid_small",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ProductIndexTests.test_long",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ProductIndexTests.test_multiplicity",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.RepeatEachTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.RepeatEachTests.test_default",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.RepeatEachTests.test_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.RepeatEachTests.test_infinite_input",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.RepeatEachTests.test_negative_repeat",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.RepeatEachTests.test_no_repeat",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.RepeatLastTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.RepeatLastTests.test_default_value",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.RepeatLastTests.test_empty_iterable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ReplaceTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ReplaceTests.test_count",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ReplaceTests.test_iterable_substitutes",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ReplaceTests.test_window_size",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ReplaceTests.test_window_size_count",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ReplaceTests.test_window_size_end",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ReplaceTests.test_window_size_large",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ReplaceTests.test_window_size_zero",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.RlocateTests.test_custom_pred",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.RlocateTests.test_default_pred",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.RlocateTests.test_efficient_reversal",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.RlocateTests.test_no_matches",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.RlocateTests.test_window_size",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.RlocateTests.test_window_size_large",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.RlocateTests.test_window_size_zero",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.RunLengthTest.test_decode",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.RunLengthTest.test_encode",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SampleTests.test_invariance_under_permutations_unweighted",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SampleTests.test_invariance_under_permutations_weighted",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SampleTests.test_length",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SampleTests.test_samling_entire_iterable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SampleTests.test_scale_invariance_of_weights",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SampleTests.test_unit_case",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SeekableTest.test_elements",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SeekableTest.test_exhaustion_reset",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SeekableTest.test_forward",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SeekableTest.test_maxlen",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SeekableTest.test_maxlen_zero",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SeekableTest.test_partial_reset",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SeekableTest.test_passthrough",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SeekableTest.test_past_end",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SeekableTest.test_peek_default",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SeekableTest.test_relative_seek",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SeekableTest.test_simple_peeking",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SeekableTest.test_truthiness",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SequenceViewTests.test_abc_methods",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SequenceViewTests.test_indexing",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SequenceViewTests.test_init",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SequenceViewTests.test_slicing",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SequenceViewTests.test_update",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SetPartitionsTests.test_duplicates",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SetPartitionsTests.test_each_correct",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SetPartitionsTests.test_found_all",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SetPartitionsTests.test_no_group",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SetPartitionsTests.test_repeated",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SetPartitionsTests.test_stirling_numbers",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SetPartitionsTests.test_to_many_groups",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SideEffectTests.test_before_after",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SideEffectTests.test_before_fails",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SideEffectTests.test_chunked",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SideEffectTests.test_individual",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SlicedTests.test_even",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SlicedTests.test_not_sliceable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SlicedTests.test_numpy_like_array",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SlicedTests.test_odd",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SlicedTests.test_odd_and_strict",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SortTogetherTest.test_invalid_key_list",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SortTogetherTest.test_key_function",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SortTogetherTest.test_key_list",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SortTogetherTest.test_reverse",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SortTogetherTest.test_uneven_iterables",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitAfterTest.test_ends_with_sep",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitAfterTest.test_max_split",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitAfterTest.test_no_sep",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitAfterTest.test_starts_with_sep",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitAtTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitAtTests.test_combination",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitAtTests.test_keep_separator",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitAtTests.test_maxsplit",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitBeforeTest.test_empty_collection",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitBeforeTest.test_ends_with_sep",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitBeforeTest.test_max_split",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitBeforeTest.test_no_sep",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitBeforeTest.test_starts_with_sep",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitIntoTests.test_bool_in_sizes",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitIntoTests.test_both_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitIntoTests.test_generator_iterable_integrity",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitIntoTests.test_generator_sizes_integrity",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitIntoTests.test_invalid_in_sizes",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitIntoTests.test_invalid_in_sizes_after_none",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitIntoTests.test_iterable_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitIntoTests.test_iterable_empty_using_none",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitIntoTests.test_iterable_just_right",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitIntoTests.test_iterable_too_large",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitIntoTests.test_iterable_too_small",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitIntoTests.test_iterable_too_small_extra",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitIntoTests.test_sizes_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitIntoTests.test_using_none_mid_sizes",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitIntoTests.test_using_none_with_leftover",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitIntoTests.test_using_none_without_leftover",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitWhenTests.test_after_emulation_ends_with_sep",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitWhenTests.test_after_emulation_no_sep",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitWhenTests.test_after_emulation_starts_with_sep",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitWhenTests.test_before_emulation_ends_with_sep",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitWhenTests.test_before_emulation_no_sep",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitWhenTests.test_before_emulation_starts_with_sep",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitWhenTests.test_empty_iterable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitWhenTests.test_max_split",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitWhenTests.test_one_element",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitWhenTests.test_one_element_is_first_item",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SplitWhenTests.test_one_element_is_second_item",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SpyTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SpyTests.test_immutable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SpyTests.test_too_many",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SpyTests.test_unpacking",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SpyTests.test_zero",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.StaggerTest.test_default",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.StaggerTest.test_longest",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.StaggerTest.test_offsets",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.StrictlyNTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.StrictlyNTests.test_too_long_custom",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.StrictlyNTests.test_too_long_default",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.StrictlyNTests.test_too_short_custom",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.StrictlyNTests.test_too_short_default",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.StripFunctionTests.test_hashable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.StripFunctionTests.test_math",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.StripFunctionTests.test_not_hashable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SubstringsIndexesTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SubstringsIndexesTests.test_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SubstringsIndexesTests.test_order",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SubstringsIndexesTests.test_reverse",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SubstringsIndexesTests.test_strings",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SubstringsTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SubstringsTests.test_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SubstringsTests.test_order",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.SubstringsTests.test_strings",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.TestAlwaysIterable.test_base_type",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.TestAlwaysIterable.test_generator",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.TestAlwaysIterable.test_iterables",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.TestAlwaysIterable.test_none",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.TestAlwaysIterable.test_single",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.TestAlwaysIterable.test_strings",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.TestCollapse.test_collapse",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.TestCollapse.test_collapse_flatten",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.TestCollapse.test_collapse_to_bytes",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.TestCollapse.test_collapse_to_level",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.TestCollapse.test_collapse_to_list",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.TestCollapse.test_collapse_to_string",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.TimeLimitedTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.TimeLimitedTests.test_complete",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.TimeLimitedTests.test_invalid_limit",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.TimeLimitedTests.test_zero_limit",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.UniqueInWindowTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.UniqueInWindowTests.test_invalid_n",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.UniqueInWindowTests.test_key",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.UniqueToEachTests.test_all_unique",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.UniqueToEachTests.test_duplicates",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.UniqueToEachTests.test_mixed",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.UnzipTests.test_empty_iterable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.UnzipTests.test_improperly_zipped",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.UnzipTests.test_increasingly_zipped",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.UnzipTests.test_length_one_iterable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.UnzipTests.test_normal_case",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ValueChainTests.test_complex",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ValueChainTests.test_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ValueChainTests.test_empty_lists",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ValueChainTests.test_more",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ValueChainTests.test_simple",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.WindowedCompleteTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.WindowedCompleteTests.test_every_partition",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.WindowedCompleteTests.test_wrong_length",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.WindowedCompleteTests.test_zero_length",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.WindowedTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.WindowedTests.test_fillvalue",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.WindowedTests.test_fillvalue_step",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.WindowedTests.test_invalid_step",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.WindowedTests.test_negative",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.WindowedTests.test_step",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.WithIterTests.test_with_iter",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ZipBroadcastTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ZipBroadcastTests.test_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ZipBroadcastTests.test_scalar_types",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ZipBroadcastTests.test_strict",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ZipEqualTest.test_deprecation",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ZipEqualTest.test_equal",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ZipEqualTest.test_unequal_lists",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ZipOffsetTest.test_longest",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ZipOffsetTest.test_mismatch",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_more.ZipOffsetTest.test_shortest",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.AllEqualTests.test_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.AllEqualTests.test_false",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.AllEqualTests.test_one",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.AllEqualTests.test_tricky",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.AllEqualTests.test_true",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.BatchedTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.BeforeAndAfterTests.test_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.BeforeAndAfterTests.test_nested_remainder",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.BeforeAndAfterTests.test_never_false",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.BeforeAndAfterTests.test_never_true",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.BeforeAndAfterTests.test_some_true",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.ConsumeTests.test_negative_consume",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.ConsumeTests.test_null_consume",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.ConsumeTests.test_sanity",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.ConsumeTests.test_total_consume",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.Convolvetests.test_derivative",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.Convolvetests.test_infinite_signal",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.Convolvetests.test_moving_average",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.DotproductTests.test_happy_path",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.FactorTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.FactorTests.test_cross_check",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.FirstTrueTests.test_default",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.FirstTrueTests.test_nothing_true",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.FirstTrueTests.test_pred",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.FirstTrueTests.test_something_true",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.FlattenTests.test_basic_usage",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.FlattenTests.test_single_level",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.GrouperTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.GrouperTests.test_fill",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.GrouperTests.test_ignore",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.GrouperTests.test_invalid_incomplete",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.GrouperTests.test_strict",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.GrouperTests.test_strict_fails",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.IterExceptTests.test_exact_exception",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.IterExceptTests.test_first",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.IterExceptTests.test_generic_exception",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.IterExceptTests.test_multiple",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.IterExceptTests.test_uncaught_exception_is_raised",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.IterIndexTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.IterIndexTests.test_start",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.MatMulTests.test_m_by_n",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.MatMulTests.test_n_by_n",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.NcyclesTests.test_happy_path",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.NcyclesTests.test_null_case",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.NcyclesTests.test_pathalogical_case",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.NthCombinationTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.NthCombinationTests.test_invalid_index",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.NthCombinationTests.test_invalid_r",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.NthCombinationTests.test_long",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.NthPermutationTests.test_invalid_index",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.NthPermutationTests.test_invalid_r",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.NthPermutationTests.test_long",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.NthPermutationTests.test_negative_index",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.NthPermutationTests.test_null",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.NthPermutationTests.test_r_equal_to_n",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.NthPermutationTests.test_r_less_than_n",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.NthTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.NthTests.test_default",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.NthTests.test_negative_item_raises",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.PadnoneTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.PairwiseTests.test_base_case",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.PairwiseTests.test_short_case",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.PartitionTests.test_arbitrary",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.PartitionTests.test_bool",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.PartitionTests.test_pred_is_none",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.PolynomialEvalTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.PolynomialFromRootsTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.PowersetTests.test_combinatorics",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.PrependTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.PrependTests.test_multiple",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.QuantifyTests.test_custom_predicate",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.QuantifyTests.test_happy_path",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.RandomCombinationTests.test_no_replacement",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.RandomCombinationTests.test_pseudorandomness",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.RandomCombinationWithReplacementTests.test_pseudorandomness",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.RandomCombinationWithReplacementTests.test_replacement",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.RandomPermutationTests.test_full_permutation",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.RandomPermutationTests.test_partial_permutation",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.RandomProductTests.test_list_with_repeat",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.RandomProductTests.test_simple_lists",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.RepeatfuncTests.test_added_arguments",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.RepeatfuncTests.test_finite_repeat",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.RepeatfuncTests.test_null_times",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.RepeatfuncTests.test_simple_repeat",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.RoundrobinTests.test_even_groups",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.RoundrobinTests.test_uneven_groups",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.SieveTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.SieveTests.test_prime_counts",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.SieveTests.test_small_numbers",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.SlidingWindowTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.SubslicesTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.SumOfSquaresTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.TabulateTests.test_count",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.TabulateTests.test_simple_tabulate",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.TailTests.test_iterator_equal",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.TailTests.test_iterator_greater",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.TailTests.test_iterator_less",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.TailTests.test_sized_equal",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.TailTests.test_sized_greater",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.TailTests.test_sized_less",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.TakeTests.test_negative_take",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.TakeTests.test_null_take",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.TakeTests.test_simple_take",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.TakeTests.test_take_too_much",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.TransposeTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.TransposeTests.test_empty",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.TransposeTests.test_incompatible",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.TriplewiseTests.test_basic",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.UniqueEverseenTests.test_custom_key",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.UniqueEverseenTests.test_everseen",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.UniqueEverseenTests.test_unhashable",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.UniqueEverseenTests.test_unhashable_key",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.UniqueJustseenTests.test_custom_key",
+      "status": "pass"
+    },
+    {
+      "id": "tests.test_recipes.UniqueJustseenTests.test_justseen",
+      "status": "pass"
+    }
+  ],
+  "tests_run": 734
+}

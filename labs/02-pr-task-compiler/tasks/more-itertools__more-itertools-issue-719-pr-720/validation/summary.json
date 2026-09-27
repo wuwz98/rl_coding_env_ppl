@@ -1,0 +1,70 @@
+{
+  "cases": [
+    {
+      "counts": {
+        "pass": 734
+      },
+      "exit_code": 0,
+      "name": "baseline",
+      "tests_run": 734
+    },
+    {
+      "counts": {
+        "fail": 1,
+        "pass": 733
+      },
+      "exit_code": 1,
+      "name": "noop-1",
+      "tests_run": 734
+    },
+    {
+      "counts": {
+        "pass": 734
+      },
+      "exit_code": 0,
+      "name": "gold-1",
+      "tests_run": 734
+    },
+    {
+      "counts": {
+        "fail": 1,
+        "pass": 733
+      },
+      "exit_code": 1,
+      "name": "noop-2",
+      "tests_run": 734
+    },
+    {
+      "counts": {
+        "pass": 734
+      },
+      "exit_code": 0,
+      "name": "gold-2",
+      "tests_run": 734
+    },
+    {
+      "counts": {
+        "fail": 1,
+        "pass": 733
+      },
+      "exit_code": 1,
+      "name": "noop-3",
+      "tests_run": 734
+    },
+    {
+      "counts": {
+        "pass": 734
+      },
+      "exit_code": 0,
+      "name": "gold-3",
+      "tests_run": 734
+    }
+  ],
+  "fail_to_pass": [
+    "tests.test_more.UniqueInWindowTests.test_basic"
+  ],
+  "pass_to_fail": [],
+  "pass_to_pass_count": 733,
+  "repeats": 3,
+  "status": "VERIFIED"
+}

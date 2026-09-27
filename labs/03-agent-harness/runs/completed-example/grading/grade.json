@@ -1,0 +1,34 @@
+{
+  "candidate": {
+    "allowed_paths": [
+      "more_itertools/more.py"
+    ],
+    "bytes": 819,
+    "path": "/Users/bytedance/PycharmProjects/RL_Coding_ENV/labs/03-agent-harness/runs/completed-example/candidate.patch",
+    "sha256": "1f33f2e78f3796ee55cd906395798a3ae29f57c1cf32950af23819003dcd630d",
+    "touched_paths": [
+      "more_itertools/more.py"
+    ]
+  },
+  "complete": true,
+  "container_removed": true,
+  "counts": {
+    "fail": 1,
+    "pass": 733
+  },
+  "expected_test_count": 734,
+  "f2p_count": 1,
+  "f2p_not_passing": [
+    "tests.test_more.UniqueInWindowTests.test_basic"
+  ],
+  "missing_required_tests": [],
+  "p2p_count": 733,
+  "p2p_not_passing": [],
+  "reason_code": "TESTS_FAILED",
+  "reward": 0,
+  "schema_version": "lab03-grade-v1",
+  "task_id": "more-itertools__more-itertools-issue-719-pr-720",
+  "test_exit_code": 1,
+  "tests_run": 734,
+  "verdict": "FAIL"
+}

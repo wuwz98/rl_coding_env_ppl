@@ -1,0 +1,58 @@
+{
+  "candidate_count": 1,
+  "collected_at": "2026-09-27T02:14:24.720396Z",
+  "filters": {
+    "comment_mode": "full",
+    "max_pages": null,
+    "max_prs": null,
+    "max_source_changed_lines": 300,
+    "merged_since": null,
+    "merged_until": null,
+    "pr_numbers": [
+      720
+    ],
+    "semantic_mode": "llm"
+  },
+  "funnel": {
+    "discovered_pairs": 1,
+    "linked_pairs_found": 1,
+    "merged_prs_scanned": 1,
+    "pulls_seen": 1,
+    "semantic_assessed": 1
+  },
+  "github_api": {
+    "cache_hits": 9,
+    "network_requests": 0,
+    "rate_limit_after_last_network_request": null
+  },
+  "outputs": {
+    "candidates_csv": "candidates.csv",
+    "candidates_jsonl": "candidates.jsonl",
+    "rejected_jsonl": "rejected.jsonl",
+    "summary": "summary.json"
+  },
+  "rejected_record_count": 0,
+  "rejection_reasons": {},
+  "repo": "more-itertools/more-itertools",
+  "repository": {
+    "archived": false,
+    "default_branch": "master",
+    "description": "More routines for operating on iterables, beyond itertools",
+    "fork": false,
+    "full_name": "more-itertools/more-itertools",
+    "language": "Python",
+    "license_spdx_id": "MIT",
+    "size_kb": 2742,
+    "stars": 4096,
+    "url": "https://github.com/more-itertools/more-itertools"
+  },
+  "result_contract": "DISCOVERED means statically eligible for Lab 02; only Lab 02 execution may produce VERIFIED.",
+  "scan_scope": "TARGETED",
+  "schema_version": 1,
+  "semantic_api": {
+    "cache_hits": 0,
+    "model": "ep-20260510173911-8tf68",
+    "network_requests": 1
+  },
+  "status": "DISCOVERY_COMPLETE"
+}

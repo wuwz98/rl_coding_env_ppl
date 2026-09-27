@@ -1,0 +1,28 @@
+{
+  "candidate_bytes": 819,
+  "candidate_patch": "/Users/bytedance/PycharmProjects/RL_Coding_ENV/labs/03-agent-harness/runs/completed-example/candidate.patch",
+  "changed_files": [
+    "more_itertools/more.py"
+  ],
+  "container_removed": true,
+  "error": null,
+  "grading": {
+    "path": "grading/grade.json",
+    "reason_code": "TESTS_FAILED",
+    "reward": 0,
+    "verdict": "FAIL"
+  },
+  "model": "ep-20260507174514-tkcr8",
+  "reward": 0,
+  "run_dir": "/Users/bytedance/PycharmProjects/RL_Coding_ENV/labs/03-agent-harness/runs/completed-example",
+  "run_id": "completed-example",
+  "termination": "FINISHED",
+  "tool_calls": 13,
+  "turns": 13,
+  "usage": {
+    "input_tokens": 116610,
+    "output_tokens": 10853,
+    "total_tokens": 127463
+  },
+  "verdict": "FAIL"
+}

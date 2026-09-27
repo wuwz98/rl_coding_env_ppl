@@ -1,0 +1,18 @@
+{
+  "candidate_patch": "candidate.patch",
+  "grader_implemented_by_lab03": true,
+  "official_grade_record": "grading/grade.json",
+  "manual_controller_check": {
+    "case": "B+C+T",
+    "counts": {
+      "fail": 1,
+      "pass": 733
+    },
+    "exit_code": 1,
+    "failed_test_ids": [
+      "tests.test_more.UniqueInWindowTests.test_basic"
+    ],
+    "tests_run": 734
+  },
+  "note": "This original manual controller check is retained as historical evidence. The implemented independent grader reproduces reward 0 in grading/grade.json."
+}

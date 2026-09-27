@@ -1,0 +1,61 @@
+{
+  "candidate_count": 2,
+  "collected_at": "2026-09-27T02:14:50.496449Z",
+  "filters": {
+    "comment_mode": "counts",
+    "max_pages": null,
+    "max_prs": 5,
+    "max_source_changed_lines": 300,
+    "merged_since": null,
+    "merged_until": null,
+    "pr_numbers": [],
+    "semantic_mode": "off"
+  },
+  "funnel": {
+    "discovered_pairs": 2,
+    "linked_pairs_found": 2,
+    "merged_prs_scanned": 5,
+    "not_merged": 8,
+    "prs_without_local_closing_issue": 3,
+    "pulls_seen": 13
+  },
+  "github_api": {
+    "cache_hits": 1,
+    "network_requests": 7,
+    "rate_limit_after_last_network_request": {
+      "limit": 60,
+      "remaining": 20,
+      "reset_at": "2026-09-27T02:38:51Z",
+      "resource": "core",
+      "used": 40
+    }
+  },
+  "outputs": {
+    "candidates_csv": "candidates.csv",
+    "candidates_jsonl": "candidates.jsonl",
+    "rejected_jsonl": "rejected.jsonl",
+    "summary": "summary.json"
+  },
+  "rejected_record_count": 3,
+  "rejection_reasons": {
+    "NO_LOCAL_CLOSING_ISSUE": 3
+  },
+  "repo": "more-itertools/more-itertools",
+  "repository": {
+    "archived": false,
+    "default_branch": "master",
+    "description": "More routines for operating on iterables, beyond itertools",
+    "fork": false,
+    "full_name": "more-itertools/more-itertools",
+    "language": "Python",
+    "license_spdx_id": "MIT",
+    "size_kb": 2742,
+    "stars": 4096,
+    "url": "https://github.com/more-itertools/more-itertools"
+  },
+  "result_contract": "DISCOVERED means statically eligible for Lab 02; only Lab 02 execution may produce VERIFIED.",
+  "scan_scope": "BOUNDED",
+  "schema_version": 1,
+  "semantic_api": null,
+  "status": "DISCOVERY_COMPLETE"
+}

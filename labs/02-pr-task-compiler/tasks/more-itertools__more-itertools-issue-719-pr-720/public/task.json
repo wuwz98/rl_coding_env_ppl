@@ -1,0 +1,13 @@
+{
+  "base_commit": "c8baa10e66de18662114b71edcfa32f5dfdd2881",
+  "image": "rl-task:more-itertools__more-itertools-issue-719-pr-720",
+  "issue": {
+    "number": 719,
+    "url": "https://github.com/more-itertools/more-itertools/issues/719"
+  },
+  "problem_statement": "`unique_in_window` is unclear or wrong\n\nIt's documented as:\r\n\r\n> Yield the items from iterable that haven’t been seen recently. n is the size of the lookback window.\r\n\r\nThe example is:\r\n\r\n```pycon\r\n>>> iterable = [0, 1, 0, 2, 3, 0]\r\n>>> n = 3\r\n>>> list(unique_in_window(iterable, n))\r\n[0, 1, 2, 3, 0]\r\n```\r\n\r\nIt's unclear what \"seen recently\" means. Given the words \"window\" and \"seen\", one might think of it as a window of the last n seen input elements:\r\n\r\n```\r\n[0, 1, 0, 2, 3, 0]\r\n\r\n[0]  => yield 0\r\n[0, 1]  => yield 1\r\n[0, 1, 0]  => don't yield 0, as another is in the window\r\n   [1, 0, 2]  => yield 2\r\n      [0, 2, 3]  => yield 3\r\n         [2, 3, 0]  => yield 0\r\n```\r\n\r\nBut that's not the case. It's really rather like this:\r\n\r\n```\r\n[0, 1, 0, 2, 3, 0]\r\n\r\n[0]  => yield 0\r\n[0, 1]  => yield 1\r\n[0, 1, 0]  => don't yield 0, as another is in the window\r\n[0, 1,    2]  => yield 2\r\n   [1,    2, 3]  => yield 3\r\n         [2, 3, 0]  => yield 0\r\n```\r\n\r\nAnother example:\r\n\r\n```pycon\r\n>>> iterable = [0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 2, 3, 4, 2]\r\n>>> n = 2\r\n>>> list(unique_in_window(iterable, n))\r\n[0, 1, 2, 3, 4, 2]\r\n```\r\nThe second 0 wasn't yielded, even though 0 hadn't been seen in the last eight elements. But the second 2 was yielded even though the first one was seen just three elements earlier.\r\n\r\nIf that's intentional, then maybe replace\r\n\r\n> Yield the items from iterable that haven’t been seen recently.\r\n\r\nwith\r\n\r\n> Yield the items from iterable that haven’t been yielded recently.\r\n\r\nand replace the example with mine (since that rules out the other interpretation, unlike the current example).",
+  "repo": "more-itertools/more-itertools",
+  "status": "VERIFIED",
+  "task_id": "more-itertools__more-itertools-issue-719-pr-720",
+  "workspace": "/workspace/repo"
+}
