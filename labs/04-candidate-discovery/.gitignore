@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.cache/
+runs/
+runs/*
+!runs/
+!runs/more-itertools-pr-720/
+!runs/more-itertools-pr-720/**
+!runs/more-itertools-pr-720-pro/
+!runs/more-itertools-pr-720-pro/**
+!runs/more-itertools-latest-5/
+!runs/more-itertools-latest-5/**

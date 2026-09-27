@@ -1,0 +1,7 @@
+**
+!Dockerfile
+!src/
+!src/stats.py
+!public_tests/
+!public_tests/test_stats.py
+!run_tests.py

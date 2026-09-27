@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+runs/
+runs/*
+!runs/
+!runs/completed-example/
+!runs/completed-example/**
